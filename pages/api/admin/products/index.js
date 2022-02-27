@@ -21,10 +21,10 @@ handler.post(async (req, res) => {
     image: '/images/shirt1.jpg',
     price: 0,
     category: 'sample category',
-    brand: 'sample brand',
+    author: 'abc',
     countInStock: 0,
     description: 'sample description',
-    rating: 0,
+    rating: 4.5,
     numReviews: 0,
   });
 
